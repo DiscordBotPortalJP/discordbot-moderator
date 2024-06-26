@@ -4,6 +4,7 @@ from constants import TOKEN
 
 extensions = (
     'circle',
+    'delete_log',
     'simple_role_panel',
 )
 
