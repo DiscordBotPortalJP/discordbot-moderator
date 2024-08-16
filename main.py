@@ -6,6 +6,7 @@ extensions = (
     'circle',
     'delete_log',
     'simple_role_panel',
+    'vc_panel',
 )
 
 
